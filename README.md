@@ -1,4 +1,4 @@
-# Vehicle-Counting-Web-Application
+## Vehicle-Counting-OpenCv-Web-Application
 A Flask Based Web Application to detect vehicles & count them using YOLOV4 & OpenCV
 
 #### This is a deep learning vision-based project, where I have used yolov4 for famous coco-dataset for detection. Through masking I am tracking each vehicle and giving unique id to each vehicle to track every vehicle for counting.
